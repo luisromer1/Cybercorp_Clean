@@ -1,10 +1,7 @@
 using Aplication.Mapping;
 using Aplication.UseCases;
-using Application.Mapping;
-using Application.UseCases;
 using Domain.Interfaces;
 using Infraestructure.Data;
-using Infrastructure.Data;
 using Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 

@@ -13,3 +13,6 @@ D:\Modalidad de grado\Area 3\project\CyberCorp\Infraestructure\obj\Debug\net8.0\
 D:\Modalidad de grado\Area 3\project\CyberCorp\Infraestructure\obj\Debug\net8.0\refint\Infraestructure.dll
 D:\Modalidad de grado\Area 3\project\CyberCorp\Infraestructure\obj\Debug\net8.0\Infraestructure.pdb
 D:\Modalidad de grado\Area 3\project\CyberCorp\Infraestructure\obj\Debug\net8.0\ref\Infraestructure.dll
+D:\Modalidad de grado\Area 3\project\CyberCorp\Infraestructure\bin\Debug\net8.0\Infraestructure.runtimeconfig.json
+D:\Modalidad de grado\Area 3\project\CyberCorp\Infraestructure\obj\Debug\net8.0\Infraestructure.sourcelink.json
+D:\Modalidad de grado\Area 3\project\CyberCorp\Infraestructure\obj\Debug\net8.0\Infraestructure.genruntimeconfig.cache

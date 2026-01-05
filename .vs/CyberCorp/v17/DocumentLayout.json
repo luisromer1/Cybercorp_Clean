@@ -3,52 +3,12 @@
   "WorkspaceRootPath": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\webapi\\controllers\\visitacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|solutionrelative:webapi\\controllers\\visitacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|solutionrelative:webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\infraestructure\\migrations\\20260105232341_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\migrations\\20260105232341_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\infraestructure\\repositories\\visitarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\visitarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\infraestructure\\repositories\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\infraestructure\\data\\cybercorpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\cybercorpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\usecases\\registrarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\registrarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\usecases\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\dtos\\visitadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\visitadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\interfaces\\ivisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ivisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\entities\\visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,8 +19,52 @@
       "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\usecases\\registrarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\registrarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\infraestructure\\data\\cybercorpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\cybercorpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|solutionrelative:webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\webapi\\controllers\\visitacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|solutionrelative:webapi\\controllers\\visitacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\infraestructure\\repositories\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\usecases\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\dtos\\visitadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\visitadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\interfaces\\ivisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ivisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,72 +86,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VisitaController.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\WebApi\\Controllers\\VisitaController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\VisitaController.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\WebApi\\Controllers\\VisitaController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\VisitaController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAzwCAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20260105232341_Inicial.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Migrations\\20260105232341_Inicial.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Migrations\\20260105232341_Inicial.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Migrations\\20260105232341_Inicial.cs",
+              "RelativeToolTip": "Infraestructure\\Migrations\\20260105232341_Inicial.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:48:23.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VisitaRepositorio.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\VisitaRepositorio.cs",
-              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\VisitaRepositorio.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\VisitaRepositorio.cs",
-              "RelativeToolTip": "Infraestructure\\Repositories\\VisitaRepositorio.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:47:35.302Z",
+              "WhenOpened": "2026-01-05T23:23:41.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "RegistrarVisita.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\RegistrarVisita.cs",
-              "RelativeDocumentMoniker": "Aplication\\UseCases\\RegistrarVisita.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\RegistrarVisita.cs",
-              "RelativeToolTip": "Aplication\\UseCases\\RegistrarVisita.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:44:55.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CrearUsuario.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\CrearUsuario.cs",
-              "RelativeDocumentMoniker": "Aplication\\UseCases\\CrearUsuario.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\CrearUsuario.cs",
-              "RelativeToolTip": "Aplication\\UseCases\\CrearUsuario.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAzwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:44:10.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Aplication\\Mapping\\MappingProfile.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "Aplication\\Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvwwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:42:58.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "CyberCorpDbContext.cs",
               "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Data\\CyberCorpDbContext.cs",
               "RelativeDocumentMoniker": "Infraestructure\\Data\\CyberCorpDbContext.cs",
@@ -160,20 +112,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
               "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\WebApi\\Program.cs",
               "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T22:27:48.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrarVisita.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\RegistrarVisita.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCases\\RegistrarVisita.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\RegistrarVisita.cs",
+              "RelativeToolTip": "Aplication\\UseCases\\RegistrarVisita.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T22:44:55.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Aplication\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Aplication\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T22:42:58.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisitaRepositorio.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\VisitaRepositorio.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\VisitaRepositorio.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\VisitaRepositorio.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\VisitaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T22:47:35.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T22:15:26.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Visita.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Visita.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Visita.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Visita.cs",
+              "RelativeToolTip": "Domain\\Entities\\Visita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T22:40:07.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\WebApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\WebApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T23:08:01.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "VisitaController.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\webapi\\Controllers\\VisitaController.cs",
+              "RelativeDocumentMoniker": "webapi\\Controllers\\VisitaController.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\webapi\\Controllers\\VisitaController.cs",
+              "RelativeToolTip": "webapi\\Controllers\\VisitaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T23:09:09.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\UsuarioRepositorio.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T22:24:17.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CrearUsuario.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\CrearUsuario.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCases\\CrearUsuario.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\CrearUsuario.cs",
+              "RelativeToolTip": "Aplication\\UseCases\\CrearUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T22:44:10.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "VisitaDTO.cs",
               "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\DTOs\\VisitaDTO.cs",
               "RelativeDocumentMoniker": "Aplication\\DTOs\\VisitaDTO.cs",
@@ -186,59 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\WebApi\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsuarioController.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\WebApi\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:26:30.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IVisita.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IVisita.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IVisita.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IVisita.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IVisita.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:41:38.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioRepositorio.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\UsuarioRepositorio.cs",
-              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\UsuarioRepositorio.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\UsuarioRepositorio.cs",
-              "RelativeToolTip": "Infraestructure\\Repositories\\UsuarioRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:24:17.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Visita.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Visita.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Visita.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Visita.cs",
-              "RelativeToolTip": "Domain\\Entities\\Visita.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:40:07.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "UsuarioDTO.cs",
               "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\DTOs\\UsuarioDTO.cs",
               "RelativeDocumentMoniker": "Aplication\\DTOs\\UsuarioDTO.cs",
@@ -251,28 +268,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
+              "Title": "IVisita.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IVisita.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IVisita.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IVisita.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IVisita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T23:04:15.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "IUsuario.cs",
               "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IUsuario.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IUsuario.cs",
               "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IUsuario.cs",
               "RelativeToolTip": "Domain\\Interfaces\\IUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:16:53.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Usuario.cs",
-              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:15:26.425Z",
+              "WhenOpened": "2026-01-05T23:03:41.143Z",
               "EditorCaption": ""
             }
           ]

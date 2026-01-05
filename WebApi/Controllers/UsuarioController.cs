@@ -1,7 +1,5 @@
 ﻿using Aplication.DTOs;
 using Aplication.UseCases;
-using Application.DTOs;
-using Application.UseCases;
 using AutoMapper;
 using Domain.Entities;
 using Domain.Interfaces;

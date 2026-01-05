@@ -13,3 +13,4 @@ D:\Modalidad de grado\Area 3\project\CyberCorp\Aplication\obj\Debug\net8.0\Aplic
 D:\Modalidad de grado\Area 3\project\CyberCorp\Aplication\obj\Debug\net8.0\refint\Aplication.dll
 D:\Modalidad de grado\Area 3\project\CyberCorp\Aplication\obj\Debug\net8.0\Aplication.pdb
 D:\Modalidad de grado\Area 3\project\CyberCorp\Aplication\obj\Debug\net8.0\ref\Aplication.dll
+D:\Modalidad de grado\Area 3\project\CyberCorp\Aplication\obj\Debug\net8.0\Aplication.sourcelink.json
