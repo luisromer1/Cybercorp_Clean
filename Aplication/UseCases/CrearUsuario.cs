@@ -1,27 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Domain.Entities;
+﻿using Domain.Entities;
 using Domain.Interfaces;
+
 namespace Aplication.UseCases
 {
     public class CrearUsuario
     {
-        private readonly IUsuario _usuarioRepositorio;
+        private readonly IUsuario _usuarioRepo;
 
-        public CrearUsuario(IUsuario usuarioRepositorio)
+        public CrearUsuario(IUsuario usuarioRepo)
         {
-            _usuarioRepositorio = usuarioRepositorio;
+            _usuarioRepo = usuarioRepo;
         }
 
         public async Task EjecutarAsync(Usuario usuario)
         {
-            if (string.IsNullOrWhiteSpace(usuario.Nombre))
-                throw new ArgumentException("El nombre es obligatorio");
-
-            await _usuarioRepositorio.Crear(usuario);
+            // Ya no generamos Guid.NewGuid(). 
+            // El ID se genera solo en la base de datos (1, 2, 3...).
+            await _usuarioRepo.Crear(usuario);
         }
     }
 }

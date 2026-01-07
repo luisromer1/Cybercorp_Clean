@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\infraestructure\\repositories\\visitarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\visitarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\entities\\visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\usecases\\registrarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\registrarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\infraestructure\\data\\cybercorpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\cybercorpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,32 +15,128 @@
       "RelativeMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|solutionrelative:webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\webapi\\controllers\\visitacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|solutionrelative:webapi\\controllers\\visitacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\webapi\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|solutionrelative:webapi\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\infraestructure\\data\\cybercorpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\cybercorpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\infraestructure\\repositories\\devolucionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\devolucionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\interfaces\\iproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\usecases\\crearproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\crearproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\dtos\\devoluciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\devoluciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Migrations\\20260107171331_MigracionInicialTotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infraestructure\\Migrations\\20260107171331_MigracionInicialTotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Migrations\\20260107171025_MigracionFinalCorregida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infraestructure\\Migrations\\20260107171025_MigracionFinalCorregida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Migrations\\20260107170823_MigracionFinalCyberCorp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infraestructure\\Migrations\\20260107170823_MigracionFinalCyberCorp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\infraestructure\\repositories\\ventarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\ventarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\infraestructure\\repositories\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\infraestructure\\repositories\\productorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\productorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\webapi\\controllers\\devolucioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|solutionrelative:webapi\\controllers\\devolucioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\webapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D00BB1-1D67-494F-A3AA-9C74810026EB}|webapi\\webapi.csproj|solutionrelative:webapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\interfaces\\iventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\interfaces\\idevolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\idevolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\entities\\devolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\devolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\usecases\\registrarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\registrarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\usecases\\registrardevolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\registrardevolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\usecases\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\dtos\\visitadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\visitadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\aplication\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7510B4E-A89F-4AD3-9B35-4C827406550E}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\interfaces\\ivisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ivisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\domain\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{747AE3E6-3CC6-42C4-A2FE-5D42FD836622}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|d:\\modalidad de grado\\area 3\\project\\cybercorp\\infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{285CD164-5312-417F-A8F3-D4F5F3E5D988}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,26 +158,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "webapi",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\webapi\\webapi.csproj",
+              "RelativeDocumentMoniker": "webapi\\webapi.csproj",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\webapi\\webapi.csproj",
+              "RelativeToolTip": "webapi\\webapi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T17:14:59.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "CyberCorpDbContext.cs",
               "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Data\\CyberCorpDbContext.cs",
               "RelativeDocumentMoniker": "Infraestructure\\Data\\CyberCorpDbContext.cs",
               "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Data\\CyberCorpDbContext.cs",
               "RelativeToolTip": "Infraestructure\\Data\\CyberCorpDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T22:22:42.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
               "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\WebApi\\Program.cs",
               "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T22:27:48.028Z",
               "EditorCaption": ""
@@ -109,170 +198,404 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RegistrarVisita.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\RegistrarVisita.cs",
-              "RelativeDocumentMoniker": "Aplication\\UseCases\\RegistrarVisita.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\RegistrarVisita.cs",
-              "RelativeToolTip": "Aplication\\UseCases\\RegistrarVisita.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:44:55.563Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T19:57:11.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Aplication\\Mapping\\MappingProfile.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "Aplication\\Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\webapi\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "webapi\\Controllers\\VentaController.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\webapi\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "webapi\\Controllers\\VentaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:42:58.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VisitaRepositorio.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\VisitaRepositorio.cs",
-              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\VisitaRepositorio.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\VisitaRepositorio.cs",
-              "RelativeToolTip": "Infraestructure\\Repositories\\VisitaRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:47:35.302Z",
+              "WhenOpened": "2026-01-07T16:48:07.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Usuario.cs",
-              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:15:26.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Visita.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Visita.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Visita.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Visita.cs",
-              "RelativeToolTip": "Domain\\Entities\\Visita.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:40:07.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\WebApi\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\UsuarioController.cs",
               "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\WebApi\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T23:08:01.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "VisitaController.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\webapi\\Controllers\\VisitaController.cs",
-              "RelativeDocumentMoniker": "webapi\\Controllers\\VisitaController.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\webapi\\Controllers\\VisitaController.cs",
-              "RelativeToolTip": "webapi\\Controllers\\VisitaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "DevolucionRepositorio.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\DevolucionRepositorio.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\DevolucionRepositorio.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\DevolucionRepositorio.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\DevolucionRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T23:09:09.132Z",
+              "WhenOpened": "2026-01-07T16:41:59.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProducto.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IProducto.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IProducto.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IProducto.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:10:22.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Producto.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "Domain\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:05:06.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "CrearProducto.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\CrearProducto.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCases\\CrearProducto.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\CrearProducto.cs",
+              "RelativeToolTip": "Aplication\\UseCases\\CrearProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:41:04.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\DTOs\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\ProductoDTO.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\DTOs\\ProductoDTO.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:13:53.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DevolucionDTO.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\DTOs\\DevolucionDTO.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\DevolucionDTO.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\DTOs\\DevolucionDTO.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\DevolucionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:50:09.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Aplication",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\Aplication.csproj",
+              "RelativeDocumentMoniker": "Aplication\\Aplication.csproj",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\Aplication.csproj",
+              "RelativeToolTip": "Aplication\\Aplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T17:14:24.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260107171331_MigracionInicialTotal.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Migrations\\20260107171331_MigracionInicialTotal.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Migrations\\20260107171331_MigracionInicialTotal.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Migrations\\20260107171331_MigracionInicialTotal.cs",
+              "RelativeToolTip": "Infraestructure\\Migrations\\20260107171331_MigracionInicialTotal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:13:31.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260107171025_MigracionFinalCorregida.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Migrations\\20260107171025_MigracionFinalCorregida.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Migrations\\20260107171025_MigracionFinalCorregida.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Migrations\\20260107171025_MigracionFinalCorregida.cs",
+              "RelativeToolTip": "Infraestructure\\Migrations\\20260107171025_MigracionFinalCorregida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:10:26.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260107170823_MigracionFinalCyberCorp.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Migrations\\20260107170823_MigracionFinalCyberCorp.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Migrations\\20260107170823_MigracionFinalCyberCorp.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Migrations\\20260107170823_MigracionFinalCyberCorp.cs",
+              "RelativeToolTip": "Infraestructure\\Migrations\\20260107170823_MigracionFinalCyberCorp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:08:23.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "UsuarioRepositorio.cs",
               "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\UsuarioRepositorio.cs",
               "RelativeDocumentMoniker": "Infraestructure\\Repositories\\UsuarioRepositorio.cs",
               "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\UsuarioRepositorio.cs",
               "RelativeToolTip": "Infraestructure\\Repositories\\UsuarioRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T22:24:17.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
+              "Title": "VentaRepositorio.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\VentaRepositorio.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\VentaRepositorio.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\VentaRepositorio.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\VentaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAzwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:27:06.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductoRepositorio.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\ProductoRepositorio.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\ProductoRepositorio.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Repositories\\ProductoRepositorio.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\ProductoRepositorio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:23:41.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DevolucionController.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\webapi\\Controllers\\DevolucionController.cs",
+              "RelativeDocumentMoniker": "webapi\\Controllers\\DevolucionController.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\webapi\\Controllers\\DevolucionController.cs",
+              "RelativeToolTip": "webapi\\Controllers\\DevolucionController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAzwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:48:53.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\WebApi\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\WebApi\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAzwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:25:34.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IVenta.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IVenta.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IVenta.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IVenta.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:17:10.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUsuario.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IUsuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUsuario.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IUsuario.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T23:03:41.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDevolucion.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IDevolucion.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IDevolucion.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IDevolucion.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IDevolucion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:20:12.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Venta.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Venta.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Venta.cs",
+              "RelativeToolTip": "Domain\\Entities\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:11:45.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T22:15:26.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Devolucion.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Devolucion.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Devolucion.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Entities\\Devolucion.cs",
+              "RelativeToolTip": "Domain\\Entities\\Devolucion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:19:37.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegistrarVenta.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\RegistrarVenta.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCases\\RegistrarVenta.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\RegistrarVenta.cs",
+              "RelativeToolTip": "Aplication\\UseCases\\RegistrarVenta.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:15:01.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegistrarDevolucion.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\RegistrarDevolucion.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCases\\RegistrarDevolucion.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\RegistrarDevolucion.cs",
+              "RelativeToolTip": "Aplication\\UseCases\\RegistrarDevolucion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:41:33.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "CrearUsuario.cs",
               "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\CrearUsuario.cs",
               "RelativeDocumentMoniker": "Aplication\\UseCases\\CrearUsuario.cs",
               "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\UseCases\\CrearUsuario.cs",
               "RelativeToolTip": "Aplication\\UseCases\\CrearUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T22:44:10.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "VisitaDTO.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\DTOs\\VisitaDTO.cs",
-              "RelativeDocumentMoniker": "Aplication\\DTOs\\VisitaDTO.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\DTOs\\VisitaDTO.cs",
-              "RelativeToolTip": "Aplication\\DTOs\\VisitaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 30,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Aplication\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Aplication\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T22:42:12.704Z",
+              "WhenOpened": "2026-01-05T22:42:58.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 31,
+              "Title": "VentaDTO.cs",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\DTOs\\VentaDTO.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\VentaDTO.cs",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\DTOs\\VentaDTO.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\VentaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:35:57.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "UsuarioDTO.cs",
               "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\DTOs\\UsuarioDTO.cs",
               "RelativeDocumentMoniker": "Aplication\\DTOs\\UsuarioDTO.cs",
               "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Aplication\\DTOs\\UsuarioDTO.cs",
               "RelativeToolTip": "Aplication\\DTOs\\UsuarioDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T22:39:17.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IVisita.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IVisita.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IVisita.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IVisita.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IVisita.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T23:04:15.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IUsuario.cs",
-              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IUsuario.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUsuario.cs",
-              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Domain\\Interfaces\\IUsuario.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T23:03:41.143Z",
+              "DocumentIndex": 33,
+              "Title": "Infraestructure.csproj",
+              "DocumentMoniker": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Infraestructure.csproj",
+              "RelativeDocumentMoniker": "Infraestructure\\Infraestructure.csproj",
+              "ToolTip": "D:\\Modalidad de grado\\Area 3\\project\\CyberCorp\\Infraestructure\\Infraestructure.csproj",
+              "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-06T20:32:41.067Z",
               "EditorCaption": ""
             }
           ]

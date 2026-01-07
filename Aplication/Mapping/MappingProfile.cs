@@ -13,8 +13,10 @@ namespace Aplication.Mapping
     {
         public MappingProfile()
         {
+            CreateMap<Producto, ProductoDTO>().ReverseMap();
             CreateMap<Usuario, UsuarioDTO>().ReverseMap();
-            CreateMap<Visita, VisitaDTO>().ReverseMap();
+            CreateMap<Venta, VentaDTO>().ReverseMap();
+            CreateMap<Devolucion, DevolucionDTO>().ReverseMap();
         }
     }
 }
