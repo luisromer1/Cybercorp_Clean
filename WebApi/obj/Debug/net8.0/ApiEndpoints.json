@@ -79,6 +79,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "WebApi.Controllers.ProductoController",
+    "Method": "GetStockReporte",
+    "RelativePath": "api/Producto/stock-reporte",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApi.Controllers.UsuarioController",
     "Method": "GetAll",
     "RelativePath": "api/Usuario",

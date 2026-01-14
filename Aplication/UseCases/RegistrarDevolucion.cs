@@ -16,18 +16,24 @@ namespace Aplication.UseCases
 
         public async Task EjecutarAsync(Devolucion devolucion)
         {
-            // 1. Buscamos el producto para validar que existe
             var producto = await _productoRepo.ObtenerPorId(devolucion.ProductoId);
-            if (producto == null) throw new Exception("El producto no existe.");
+            if (producto == null) throw new Exception("Error: El producto no existe.");
 
-            // 2. ASIGNACIÓN AUTOMÁTICA DE FECHA (Tu pregunta)
+            // VALIDACIÓN DE FLUJO LOGÍCO:
+            // No tiene sentido devolver un producto que ya está en 'Mantenimiento' o que sigue 'Disponible'
+            if (producto.Estado != "Vendido")
+                throw new Exception($"Operación inválida: No se puede registrar la devolución de un equipo que figura como '{producto.Estado}'. Solo se aceptan equipos vendidos.");
+
+            // Validación de descripción
+            if (string.IsNullOrWhiteSpace(devolucion.Motivo))
+                throw new Exception("Error: Debe ingresar un motivo detallado para el reporte técnico.");
+
             devolucion.FechaDevolucion = DateTime.Now;
 
-            // 3. CUMPLIR HU-03: Cambiar estado a Mantenimiento automáticamente
+            // CUMPLIR HU-03: Cambiar estado a Mantenimiento automáticamente
             producto.Estado = "Mantenimiento";
             await _productoRepo.Actualizar(producto);
 
-            // 4. Guardar la devolución
             await _devolucionRepo.Registrar(devolucion);
         }
     }
